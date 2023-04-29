@@ -17,6 +17,27 @@
         <input id="weaponBox" type="text" maxlength="24" placeholder="Sword, Hammer, Fish, etc.">
         <button class="buttonStyle" type="button" onclick="assembleAttackName();">Generate Skill!</button>
         <p id="WeaponText">Get Ready!</p>
+        <p>The damage is calculated against an enemy with 100 HP.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Damage per hit</th>
+                    <th>Number of hits</th>
+                    <th>Attack duration</th>
+                    <th>Cooldown</th>
+                    <th>Special Effect</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th id="Damage">0</th>
+                    <th id="HitsCount">0</th>
+                    <th id="Duration">0</th>
+                    <th id="Cooldown">0</th>
+                    <th class="specialEffect" id="SpecialFX">None</th>
+                </tr>
+            </tbody>
+        </table>
     </main>
     <footer>
 

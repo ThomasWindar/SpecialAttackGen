@@ -66,8 +66,16 @@ p {
     width: 500px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 15px;
 }
 
+table {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;    
+}
 
-
-
+.specialEffect {
+    width: 350px;
+}
