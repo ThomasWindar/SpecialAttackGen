@@ -14,11 +14,11 @@ Since this was supposed to be a Portfolio project and was open-ended, I decided 
 - Greet the user and state its name and purpose. [DONE]
 - Ask the user for a Weapon. [DONE]
 - Create a name for the attack out of a set of words. [DONE]
-- Choose the Base Damage of the attack at random.
-- Determine based on semi-random values the scaling, cooldown, attack duration and number of hits, in order to balance the attack.
-- Grant the attack a random special effect. 
-- Afterwards showcase a basic enemy HP pool and print out the Special Attack in detail to the user. 
-- Ask for another weapon input (restarts the process)
+- Choose the Base Damage of the attack at random. [DONE]
+- Determine based on semi-random values the scaling, cooldown, attack duration and number of hits, in order to balance the attack. [DONE]
+- Grant the attack a random special effect. [DONE]
+- Afterwards showcase a basic enemy HP pool and print out the Special Attack in detail to the user. [DONE]
+- Ask for another weapon input (restarts the process) [DONE]
 
 This would in practice generate the new attack.
 
